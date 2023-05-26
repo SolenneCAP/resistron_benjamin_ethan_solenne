@@ -11,7 +11,7 @@ calcul de la valeur de la résistance
 
 
 ## Infos générales
-Le resistron est un progrmme qui sert a calculer la ressitance en ohms a partir de ses anneaux de couleurs fonctionnel même pour les daltonien. Nous avons utiliser Java et JavaFX pour faire une application qui affiche ce que fait le programe. Nous avos des probléme au niveau de l'importation de notre code à Scene Builder. Dans le future nous aimerions améliorer l'interface graphique  
+Le resistron est un progrmme qui sert a calculer la ressitance en ohms a partir de ses anneaux de couleurs fonctionnel même pour les daltonien. Nous avons utiliser Java et JavaFX pour faire une application qui affiche ce que fait le programe. Nous avos des probléme au niveau de l'importation de notre code à Scene Builder. Dans le futur nous aimerions améliorer l'interface graphique  
 
 ## Technologie
 On a utiliser Java et JavaFX grace à la DOC:
